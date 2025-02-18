@@ -22,6 +22,7 @@ vendor/
 *.swp
 *.swo
 
+
 # Logs & Debugging
 *.log
 *.test
