@@ -1,0 +1,45 @@
+# Binary files
+*.exe
+*.out
+*.o
+*.so
+*.dll
+*.dylib
+
+# Go specific files
+/bin/
+/pkg/
+
+# Go modules
+go.sum
+go.work
+vendor/
+
+# IDE / Editor settings
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+
+# Logs & Debugging
+*.log
+*.test
+
+# Air (live reloading tool)
+.air
+/tmp/
+
+# Database & Config
+*.db
+*.sqlite
+*.env
+config.yaml
+
+# macOS and Linux system files
+.DS_Store
+*.DS_Store
+
+# Windows system files
+Thumbs.db
+Desktop.ini
