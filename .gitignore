@@ -28,7 +28,7 @@ vendor/
 
 # Air (live reloading tool)
 .air
-/tmp/
+/tmp
 
 # Database & Config
 *.db
